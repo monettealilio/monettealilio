@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **monette.alilio@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/monette-alilio/]
+- 📄 Know about my experiences https://www.linkedin.com/in/monette-alilio/
 
   
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1pM2lrMm0xa2Vma3NqY3M5cXExZHpnYXNyNXhsaG5hcTFqd3N5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.webp"  />
