@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Monette Alilio, ISTQB-CTFL</h1>
 <h4 align="center">I am a passionate software tester with 10 years of expertise in manual testing for web and mobile applications. Adept at using testing tools like JIRA and TestRail, and skilled in Agile methodologies. Proven track record of improving testing processes and delivering high-quality software solutions. </h4>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.stldigital.tech/wp-content/uploads/2023/08/PoV-Building-Next-Gen-Software-with-a-Secure-SDLC-Framework-1024x808.jpg" width="120" height="100" align="right">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/SDLC_-_Software_Development_Life_Cycle.jpg/1191px-SDLC_-_Software_Development_Life_Cycle.jpg?20120412060942" width="100" height="100" align="right">
+ <img alt="SDLC" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/SDLC-Maintenance-Highlighted.png/440px-SDLC-Maintenance-Highlighted.png" width="100" height="100" align="right">
+</picture>
+
+
 - 🌱 I’m currently learning **Automation Testing Tools like Cypress.io and Playwright**
 
 - 💬 Ask me about **Software Testing**
@@ -19,3 +26,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.testrail.com/lp/try-testrail/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/gurock_testrail/images/765e1f59-7fb9-4bbb-8eb3-5fa5c96eadc3.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
