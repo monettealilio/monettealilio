@@ -1,13 +1,90 @@
-<h1 align="center">Hi 👋, I'm Monette Alilio, ISTQB-CTFL</h1>
-<h4 align="center">I am a passionate software tester with over 12 years of expertise in manual testing for web, mobile and desktop applications. Adept at using testing tools like JIRA and TestRail, and skilled in Agile methodologies. Proven track record of improving testing processes and delivering high-quality software solutions. </h4>
+<h1 align="center">Hi 👋, I'm Monette Alilio, ISTQB-CTFL | Quality Advocate </h1>
+<h4 align="center">I’m a Test Analyst with experience validating web applications, mobile apps, and desktop applications across multiple operating systems. I work closely with developers, product owners, and business stakeholders to ensure requirements are clearly understood, testable, and delivered with confidence.
+
+I am adept at using testing and defect management tools such as JIRA and TestRail, and I’m skilled in Agile methodologies, contributing effectively within sprint-based development cycles. My approach balances structured testing with exploratory insight, ensuring both coverage and quality. </h4>
+
+---
+<h2>🔍 Core Skills</h2>
+
+
+<h3>Testing & Analysis </h3>
+
+ - Requirements analysis and test scenario creation <br>
+ - Manual, exploratory, regression, smoke, and UAT testing <br>
+ - Risk-based testing and edge-case analysis 
+
+<h3>Test Management & Defect Tracking</h3>
+
+ - Test case creation and execution using TestRail<br>
+ - Defect logging, tracking, and reporting using JIRA<br>
+ - Traceability between requirements, test cases, and defects
+
+<h3>Agile Practices</h3>
+
+ - Working within Agile / Scrum environments<br>
+ - Sprint planning, backlog grooming, and daily stand-ups<br>
+ - Testing aligned with sprint goals and acceptance criteria
+
+<h3>Tools & Platforms</h3>
+
+ - JIRA, TestRail<br>
+ - Postman (API testing)<br>
+ - Selenium / Cypress / Playwright (basic automation)<br>
+ - Web, mobile, and desktop application testing
+
+<h3>Environments</h3>
+
+ - Browsers: Chrome, Firefox, Safari, Opera, Edge <br>
+ - OS: Windows, macOS, Linux, Android, iOS
+
+
+---
+<h2>📁 Portfolio Sections</h2>
+
+
+<h3>✅ Manual Testing </h3>
+
+ - Requirement-based test cases managed in TestRail <br>
+ - Exploratory testing sessions and notes <br>
+ - Regression test suites supporting sprint releases
+
+<h3>🐞 Defect Reporting</h3>
+
+ - High-quality bug reports created in JIRA <br>
+ - Clear reproduction steps, expected vs actual results <br>
+ - Severity, priority, and impact analysis 
+
+<h3>🌐 Web Application Testing</h3>
+
+ - Cross-browser and responsive testing <br>
+ - UI/UX and usability validation <br>
+ - Functional and non-functional checks 
+
+<h3>📱 Mobile & Desktop Testing</h3>
+
+ - Android and iOS test scenarios <br>
+ - Installation, upgrade, and compatibility testing <br>
+ - Desktop application workflow validation 
+
+<h3>🔌 API Testing</h3>
+
+ - REST API testing using Postman <br>
+ - Positive, negative, and boundary test cases
+
+
+---
+<h2>How I Add Value as a Test Analyst </h2>
+
+
+
+ - I translate business requirements into meaningful test coverage <br>
+ - I communicate defects clearly, focusing on impact and risk <br>
+ - I adapt quickly in Agile environments with changing priorities <br>
+ - I help teams release with confidence by preventing late surprises 
 
 ---
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.stldigital.tech/wp-content/uploads/2023/08/PoV-Building-Next-Gen-Software-with-a-Secure-SDLC-Framework-1024x808.jpg" width="120" height="100" align="right">
- <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/SDLC_-_Software_Development_Life_Cycle.jpg/1191px-SDLC_-_Software_Development_Life_Cycle.jpg?20120412060942" width="100" height="100" align="right">
- <img alt="SDLC" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/SDLC-Maintenance-Highlighted.png/440px-SDLC-Maintenance-Highlighted.png" width="100" height="100" align="right">
-</picture>
+
 
 
 - 🌱 I’m currently learning **Automation Testing Tools like Cypress.io and Playwright**
