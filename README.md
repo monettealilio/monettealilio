@@ -39,7 +39,7 @@ I am adept at using testing and defect management tools such as JIRA and TestRai
 
 
 ---
-<h2>📁 Portfolio Sections</h2>
+<h2>📁 Portfolio</h2>
 
 
 <h3>✅ Manual Testing </h3>
